@@ -1,5 +1,7 @@
 # AngularApp
 
+![screencapture-localhost-4200-2022-03-14-18_35_07](https://user-images.githubusercontent.com/30292887/158178833-048bbf5c-885d-4103-843d-6bc667714bf6.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
